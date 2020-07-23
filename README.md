@@ -15,29 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Student Developer 5tarlight!
-
-
-(currently using name 'YEAHx4')
-
-
-though I'm not professional, I just like this.
-
-
-
-
-I started coding in 2015(I was 4th grade in Elementary School) with C.
-
-
-Under is my life of coding.
-
-
-C -> Java -> Javascript -> Typescript -> Javascript(React) -> C++ -> C# -> Now
-
-
-
-
-I believe that I can be professional someday.
-
-
+I'm Student Developer 5tarlight! <br />
+(currently using name 'YEAHx4') <br />
+though I'm not professional, I just like this. <br /> <br />
+I started coding in 2015(I was 4th grade in Elementary School) with C. <br />
+Under is my life of coding. <br />
+C -> Java -> Javascript -> Typescript -> Javascript(React) -> C++ -> C# -> Now <br /> <br />
+I believe that I can be professional someday. <br />
 **_TO INFINITE AND BEYOND_**
