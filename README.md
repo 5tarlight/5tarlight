@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![5tarlight github stats](https://github-readme-stats.vercel.app/api?username=kdhkr)](https://github.com/5tarlight)
+[![5tarlight github stats](https://github-readme-stats.vercel.app/api?username=5tarlight)](https://github.com/5tarlight)
 
 I'm Student Developer 5tarlight! <br />
 (currently using name 'YEAHx4') <br />
