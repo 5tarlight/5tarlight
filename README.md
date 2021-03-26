@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![5tarlight github stats](https://github-readme-stats.vercel.app/api?username=5tarlight)](https://github.com/5tarlight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tarlight)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Student Developer 5tarlight! <br />
 (currently using name 'YEAHx4') <br />
