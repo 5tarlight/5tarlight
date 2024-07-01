@@ -4,7 +4,7 @@
 
 **:wine_glass: My Skills**
 
-[![My Languages](https://skillicons.dev/icons?i=react,next,jquery,express,pug,spring)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=react,next,jquery,express,pug,spring,mysql,electron,discordjs)](https://skillicons.dev)
 
 **:tent: Statistics**
 
