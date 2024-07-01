@@ -9,6 +9,4 @@
 **:tent: Statistics**
 
 ![5tarlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=5tarlight&hide=contribs)
-[![Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/profile/5tarlight?size=200)](https://solved.ac/5tarlight)
-[![Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/problems/5tarlight)](https://solved.ac/5tarlight)
-[![Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/tags/5tarlight)](https://solved.ac/5tarlight)
+[![Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/profile/5tarlight?size=175)](https://solved.ac/5tarlight)
